@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nsishack", "nsishack\nsisha
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hack", "hack\hack.vcxproj", "{8147A06C-02BE-4091-BDE3-9A3775F6A550}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Detours", "Detours\Detours.vcxproj", "{F2EA7B89-043E-44FE-A5D7-DDD889428A07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +23,10 @@ Global
 		{8147A06C-02BE-4091-BDE3-9A3775F6A550}.Debug|Win32.Build.0 = Debug|Win32
 		{8147A06C-02BE-4091-BDE3-9A3775F6A550}.Release|Win32.ActiveCfg = Release|Win32
 		{8147A06C-02BE-4091-BDE3-9A3775F6A550}.Release|Win32.Build.0 = Release|Win32
+		{F2EA7B89-043E-44FE-A5D7-DDD889428A07}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2EA7B89-043E-44FE-A5D7-DDD889428A07}.Debug|Win32.Build.0 = Debug|Win32
+		{F2EA7B89-043E-44FE-A5D7-DDD889428A07}.Release|Win32.ActiveCfg = Release|Win32
+		{F2EA7B89-043E-44FE-A5D7-DDD889428A07}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
