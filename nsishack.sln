@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nsishack", "nsishack\nsishack.vcxproj", "{97F41BE7-37AB-461E-A9AE-C8AED924433C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hack", "hack\hack.vcxproj", "{8147A06C-02BE-4091-BDE3-9A3775F6A550}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Detours", "Detours\Detours.vcxproj", "{F2EA7B89-043E-44FE-A5D7-DDD889428A07}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "version", "version\version.vcxproj", "{309D06F3-1DB3-4F37-ABA2-017FE83DBF6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{F2EA7B89-043E-44FE-A5D7-DDD889428A07}.Debug|Win32.Build.0 = Debug|Win32
 		{F2EA7B89-043E-44FE-A5D7-DDD889428A07}.Release|Win32.ActiveCfg = Release|Win32
 		{F2EA7B89-043E-44FE-A5D7-DDD889428A07}.Release|Win32.Build.0 = Release|Win32
+		{309D06F3-1DB3-4F37-ABA2-017FE83DBF6E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{309D06F3-1DB3-4F37-ABA2-017FE83DBF6E}.Debug|Win32.Build.0 = Debug|Win32
+		{309D06F3-1DB3-4F37-ABA2-017FE83DBF6E}.Release|Win32.ActiveCfg = Release|Win32
+		{309D06F3-1DB3-4F37-ABA2-017FE83DBF6E}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
